@@ -1,1 +1,1 @@
-# webgpu-boilerplate
+# WebGPU Boilerplate
